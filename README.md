@@ -1,2 +1,1 @@
-# Elevate-Labs---Task-1
-Database Setup and Schema Design
+This repository contains the SQL script and ER diagram for a Library Management System database. It includes tables for Authors, Books, Members, and Loans, implementing primary and foreign keys to maintain relationships: one-to-many between Authors and Books, and many-to-many between Books and Members via the Loans table. The library_schema.sql script creates the database and inserts sample data, while ER_diagram.png visually represents the database structure.
